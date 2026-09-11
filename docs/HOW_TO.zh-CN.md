@@ -1,6 +1,6 @@
 # 如何安装和使用 Agent Pet
 
-[English](HOW_TO.en.md) · [返回项目首页](../README.md)
+[English](HOW_TO.en.md) · [返回项目首页](../README.zh-CN.md)
 
 本文介绍如何在支持 Codex v2 自定义宠物的桌面应用中，安装 **Indigo · 靛蓝猫**（`indigo-cat`）、**G.E.M.**（`gem-tang`），或同时安装两只。安装包已经包含成品图片，不需要 API Key、重新生图或构建工具。
 
